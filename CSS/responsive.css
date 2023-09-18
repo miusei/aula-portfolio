@@ -1,0 +1,20 @@
+@media (max-width: 1200px) {
+
+    .cabecalho {
+        padding: 10%     ;
+    }
+
+    .cabecalho-menu {
+        justify-content: center;
+    }
+
+    .container {
+        flex-direction: column-reverse;
+    }
+
+    .container-contend {
+        width: auto;
+        padding-top: 5%;
+    }
+
+}
